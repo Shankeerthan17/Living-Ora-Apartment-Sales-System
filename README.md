@@ -1,4 +1,4 @@
-# Living Ora — Web-Based Apartment Sales System
+# Living Ora - Web-Based Apartment Sales System
 
 Living Ora is a web application for browsing apartments, managing unit bookings, publishing promotions, and tracking payments and installment schedules. It brings customer, sales agent, staff, and administrator workflows into a shared platform backed by MySQL.
 
